@@ -1,0 +1,37 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="210" height="330" viewBox="0 0 210 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Story character" clip-path="url(#clip0_0_15)">
+<ellipse id="Ground shadow" cx="110.5" cy="315.5" rx="85.5" ry="8.5" fill="#778D6C" fill-opacity="0.2"/>
+<rect id="Leg" x="65" y="249" width="29" height="62" rx="12" fill="#7399A9"/>
+<rect id="Leg_2" x="120" y="249" width="29" height="62" rx="12" fill="#7399A9"/>
+<rect id="Shoe" x="52" y="300" width="46" height="18" rx="9" fill="#795641"/>
+<rect id="Shoe_2" x="119" y="300" width="47" height="18" rx="9" fill="#795641"/>
+<path id="Arms" d="M66 189C40.6667 209 30.3333 229 35 249M148 188C168 206.667 177.667 226 177 246M0 0L0.001 0.001M209.999 329.999L210 330" stroke-width="23" stroke="#B97850"/>
+<circle id="Hand" cx="35.5" cy="248.5" r="11.5" fill="#B97850"/>
+<circle id="Hand_2" cx="176.5" cy="245.5" r="11.5" fill="#B97850"/>
+<path id="Sweater" d="M66 168C93.3333 160.667 120.333 161 147 169L163 259C125 269 87.6667 268.667 51 258L66 168ZM209.999 329.999L210 330Z" fill="#C77756"/>
+<ellipse id="Sweater patch" cx="105" cy="222.5" rx="20" ry="17.5" fill="#EFC3A3"/>
+<rect id="Neck" x="93" y="137" width="28" height="42" rx="12" fill="#B97850"/>
+<ellipse id="Hair puff" cx="45" cy="59.5" rx="35" ry="37.5" fill="#523E32"/>
+<ellipse id="Hair puff_2" cx="166" cy="60.5" rx="34" ry="37.5" fill="#523E32"/>
+<ellipse id="Hair" cx="108" cy="85.5" rx="74" ry="75.5" fill="#523E32"/>
+<ellipse id="Ear" cx="43" cy="110" rx="13" ry="19" fill="#B97850"/>
+<ellipse id="Ear_2" cx="177" cy="110" rx="13" ry="19" fill="#B97850"/>
+<rect id="Face" x="45" y="42" width="130" height="124" rx="53" fill="#B97850"/>
+<path id="Fringe" d="M40 77C43.3333 28.3333 68.3333 10 115 22C161.667 17.3333 183 36.6667 179 80C157 72.6667 142.333 60.3333 135 43C117 64.3333 85.3333 75.6667 40 77ZM209.999 329.999L210 330Z" fill="#523E32"/>
+<path id="Eyebrows" d="M65 81C75 77 84 77 92 81M117 81C128.333 77 138.333 76.6667 147 80M0 0L0.001 0.001M209.999 329.999L210 330" stroke-width="4" stroke="#523E32"/>
+<ellipse id="Eye white" cx="79.5" cy="101.5" rx="17.5" ry="14.5" fill="white"/>
+<ellipse id="Eye white_2" cx="131.5" cy="101.5" rx="17.5" ry="14.5" fill="white"/>
+<ellipse id="Gaze pupil" cx="89" cy="107" rx="6" ry="8" fill="#523E32"/>
+<ellipse id="Gaze pupil_2" cx="141" cy="107" rx="6" ry="8" fill="#523E32"/>
+<ellipse id="Eye sparkle" cx="88" cy="103.5" rx="2" ry="2.5" fill="white"/>
+<ellipse id="Eye sparkle_2" cx="140" cy="103.5" rx="2" ry="2.5" fill="white"/>
+<ellipse id="Cheek" cx="65" cy="124" rx="11" ry="6" fill="#D98D73" fill-opacity="0.564706"/>
+<ellipse id="Cheek_2" cx="154.5" cy="124" rx="10.5" ry="6" fill="#D98D73" fill-opacity="0.564706"/>
+<path id="Expression" d="M112 108L119 121L110 123M96 138C106 146 116.667 145.333 128 136M0 0L0.001 0.001M209.999 329.999L210 330" stroke-width="3" stroke="#795641"/>
+</g>
+<defs>
+<clipPath id="clip0_0_15">
+<rect width="210" height="330" fill="white"/>
+</clipPath>
+</defs>
+</svg>

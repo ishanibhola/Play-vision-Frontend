@@ -1,0 +1,10 @@
+{
+  "description": "An interactive website that turns a Figma prototype into a clickable experience, helping visitors explore its screens and features.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

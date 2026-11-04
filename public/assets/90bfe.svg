@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Picture illustration" clip-path="url(#clip0_0_4)">
+<path id="Illustrated detail" d="M46 98C24 89.3333 15.6667 75 21 55M57 124L39 157M80 124L94 154M121 119L143 147M136 107L166 115M0 0L0.001 0.001M179.999 179.999L180 180" stroke-width="13" stroke="#795641"/>
+<ellipse id="Body" cx="90" cy="104.5" rx="50" ry="29.5" fill="#795641"/>
+<ellipse id="Patch" cx="97.5" cy="102.5" rx="19.5" ry="24.5" fill="#FFFCF5"/>
+<ellipse id="Head" cx="134.5" cy="71" rx="25.5" ry="28" fill="#795641"/>
+<ellipse id="Ear" cx="120.5" cy="60" rx="11.5" ry="22" fill="#523E32"/>
+<ellipse id="Muzzle" cx="155" cy="79.5" rx="18" ry="11.5" fill="#EFC3A3"/>
+<ellipse id="Nose" cx="169.5" cy="74" rx="5.5" ry="6" fill="#523E32"/>
+<ellipse id="Eye" cx="146" cy="59.5" rx="6" ry="6.5" fill="white"/>
+<ellipse id="Pupil" cx="149" cy="59.5" rx="3" ry="3.5" fill="#523E32"/>
+<path id="Illustrated detail_2" d="M151 91C154.333 103.667 158.667 104.667 164 94L151 91ZM179.999 179.999L180 180Z" fill="#C77756"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="180" height="180" fill="white"/>
+</clipPath>
+</defs>
+</svg>
